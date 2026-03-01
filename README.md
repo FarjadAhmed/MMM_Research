@@ -1,4 +1,4 @@
-### [Read it on Medium!](https://medium.com/@bluemacaw/can-a-top-down-hierarchical-mmm-recover-ground-truth-a-simulation-study-1537c0927cbe)
+### 🌟[Read it on Medium!](https://medium.com/@bluemacaw/can-a-top-down-hierarchical-mmm-recover-ground-truth-a-simulation-study-1537c0927cbe)
 
 # Cascading Hierarchical MMM: Simulated Truth vs Top-Down Attribution
 
