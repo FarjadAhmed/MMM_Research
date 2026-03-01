@@ -1,3 +1,5 @@
+### [Read it on Medium!](https://medium.com/@bluemacaw/can-a-top-down-hierarchical-mmm-recover-ground-truth-a-simulation-study-1537c0927cbe)
+
 # Cascading Hierarchical MMM: Simulated Truth vs Top-Down Attribution
 
 Can a cascading top-down Marketing Mix Model recover leaf-level channel contributions that were generated bottom-up? This repo tests that question with a fully simulated dataset where every parameter is known.
